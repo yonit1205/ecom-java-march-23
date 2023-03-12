@@ -3,7 +3,7 @@ package lesson_01;
 public class Variabels {
     public static void main(String[] args) {
 
-        byte myByte = 25;
+        byte myByte = 50;
         short myShort;
         myShort = 345;
         int myInt = 1_454_5;
